@@ -148,7 +148,7 @@ Venus(2)
 
 然后...怎么提取就成为了新的问题，事实上比赛的时候也在这里卡住了好久，实际上是==象形==，~~象形能不能滚出puzzlehunt啊~~
 
-![象形提取](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1puzzle3img3.png)
+![象形提取](.\img\day1puzzle3img3.png)
 
 *答案`STORM`*
 
