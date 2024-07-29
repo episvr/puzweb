@@ -110,7 +110,7 @@ Venus(2)
 
 你注意到==隐藏的摩斯密码==了吗
 
-![隐藏的摩斯密码](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1puzzle3img1.png)
+![隐藏的摩斯密码](.\img\day1puzzle3img1.png)
 
 
 
@@ -142,7 +142,7 @@ Venus(2)
 
 我们找到这五片碎片，它们刚好和漫画里的五片碎片一致
 
-![破碎的回忆](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1puzzle3img2.png)
+![破碎的回忆](.\img\day1puzzle3img2.png)
 
 
 
@@ -182,7 +182,7 @@ Venus(2)
 
 简单可得数回的答案
 
-![数回答案](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1puzzle4img1.png)
+![数回答案](.\img\day1puzzle4img1.png)
 
 我们注意到红线穿过了一些字:“==听起来像是自私的鱼==”
 
@@ -216,7 +216,7 @@ Venus(2)
 >
 > - 摄像机方向：也就是一个格子里的两组站位对应一个方向
 
-![摄像机方向](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1puzzle5img1.png)
+![摄像机方向](.\img\day1puzzle5img1.png)
 
 
 
@@ -325,7 +325,7 @@ Venus(2)
 >
 > 后来队友发现了标题玩的谐音==图谜==，于是很开心的解完了
 
-![图谜](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1puzzle7img1.png)
+![图谜](.\img\day1puzzle7img1.png)
 
 
 
@@ -408,17 +408,17 @@ Venus(2)
 
 我们拼图还没拼完呢，然后就...
 
-![我看是琵琶拨尽四弦悲](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1funstuff.png)
+![我看是琵琶拨尽四弦悲](.\img\day1funstuff.png)
 
 实际上我也怀疑他一段时间了，就直接举办了（
 
 实际上他说的思路是对的，我们先把拼图拼好
 
-![拼图](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1metaimg1.png)
+![拼图](.\img\day1metaimg1.png)
 
 我们能注意到出现了一些与emoji相同的元素，对应相连可得：
 
-![囚围困囹圄](C:\Users\epiph\Desktop\puzzle.net\epi\pnku3\img\day1metaimg2.png)
+![囚围困囹圄](.\img\day1metaimg2.png)
 
 
 
