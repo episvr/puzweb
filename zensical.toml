@@ -12,6 +12,8 @@ All Rights Reserved
 docs_dir = "docs"      # 文档目录，默认：docs
 site_dir = "site"      # 输出目录，默认：site
 
+site_url = "https://puzzle.episvr.com/"
+
 [nav]
 
 [[nav.items]]
