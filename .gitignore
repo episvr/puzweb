@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# mkdocs
+/site/
+
+# VS Code
+.vscode/
+
+# Cache
+.cache/
+
+# virtualenv
+.venv/
+venv/
+.env/
+
+# Docs
+other/
+
+# OS
+.DS_Store
+Thumbs.db
