@@ -3,7 +3,8 @@ site_name = "POP wiki"
 
 site_description = "Puzzles Offer Pleasure!"
 site_author = "Epi"
-#site_url = "https://www.example.com/"
+site_url = "https://puzzle.episvr.com/"
+
 copyright = """
 Copyright &copy; 2026 Epi
 All Rights Reserved
@@ -12,32 +13,40 @@ All Rights Reserved
 docs_dir = "docs"      # 文档目录，默认：docs
 site_dir = "site"      # 输出目录，默认：site
 
-site_url = "https://puzzle.episvr.com/"
 extra_css = ["stylesheets/extra.css"]
-
-[nav]
-
-[[nav.items]]
-title = "首页"
-link = "/"
-
-[[nav.items]]
-title = "介绍"
-link = "/docs/"
-
-[[nav.items]]
-title = "资料"
-link = "/about/"
+extra_javascript = ["javascripts/extra.js"]
 
 
-
-# With the `extra_javascript` option you can add your own JavaScript to your
-# project to customize the behavior according to your needs.
-#
-# The path provided should be relative to the "docs_dir".
-#
-# Read more: https://zensical.org/docs/customization/#additional-javascript
-#extra_javascript = ["javascripts/extra.js"]
+nav = [
+    { "主页" = "index.md" },
+    { "快速开始" = [
+        { "急速入门" = "Started/index.md" },
+        { "Puzzlehunt 介绍" = "Started/detail.md"},
+        { "5 分钟解释 puzzlehunt" = "Started/simple.md" },
+    ] },
+    { "克隆文档" = [
+        {"一个声明"="Clone/index.md"},
+        {"尝试了吗"="Clone/try.md"},
+    ] },
+    { "链接仓库" = [
+        {"谜题日历"="Resources/00calendar.md"},
+        {"百科仓库"="Resources/01wiki.md"},
+        {"谜题仓库"="Resources/02repository.md"},
+        {"史官记录"="Resources/03history.md"},
+        {"解题工具"="Resources/04tools.md"},
+        {"其他记录"="Resources/05other.md"},
+        {"史官记录"="Resources/06recommend.md"},
+    ] },
+    { "我的谜题" = [
+        {"无马"= "Puzzles/01/puzzle.md"},
+    ] },
+    { "题解记录"=[
+        {"首页"="Blogs/"},
+        {"那篇博客的谜题"="Blogs/01"},
+        {"zelda-minihunt"="Blogs/02"},
+    ]},
+    { "友情链接"= "Friend/"},
+]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options

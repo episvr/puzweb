@@ -1,3 +1,8 @@
+---
+icon: lucide/message-circle-question-mark
+---
+
+
 # 你尝试过了吗？
 
 ## 1. 对于新手

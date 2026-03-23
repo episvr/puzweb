@@ -1,3 +1,7 @@
+---
+icon: lucide/clock-1
+---
+
 # Puzzlehunt in 5 min
 
 > 基本上本文是上一篇介绍的浓缩版

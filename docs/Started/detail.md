@@ -1,4 +1,8 @@
-# Introduction to Puzzlehunts
+---
+icon: lucide/book-text
+---
+
+# Introduction to Puzzlehunt
 
 本文章是 [https://blog.vero.site/post/puzzlehunts](https://blog.vero.site/post/puzzlehunts) 的不完全汉化版，正在逐步删删改改+润色中，另外原版博客的最后有一道题目，本博客 **并没有保留这道题目** 。
 

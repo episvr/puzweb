@@ -1,3 +1,7 @@
+---
+icon: lucide/wrench
+---
+
 # 解题工具
 
 ## 工具箱类

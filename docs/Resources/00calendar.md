@@ -1,3 +1,8 @@
+---
+icon: lucide/calendar
+---
+
+
 # 谜题日历
 
 - Puzzle Hunter's Calendar! 🫡 - [Puzzle Hunt Calendar](https://puzzlendar.com/)

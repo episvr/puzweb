@@ -1,3 +1,7 @@
+---
+icon: lucide/star
+---
+
 # 个人推荐
 
 - Puzzle Hunter's Calendar! 🫡 - [Puzzle Hunt Calendar](https://puzzlendar.com/)

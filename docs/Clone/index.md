@@ -1,3 +1,7 @@
+---
+icon: lucide/copy
+---
+
 # Clone
 
 本页面计划将来自于 Resources 页面下的部分共享表格内容迁移成文档的形式。故名 Clone。
