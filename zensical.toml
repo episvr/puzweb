@@ -13,6 +13,7 @@ docs_dir = "docs"      # 文档目录，默认：docs
 site_dir = "site"      # 输出目录，默认：site
 
 site_url = "https://puzzle.episvr.com/"
+extra_css = ["stylesheets/extra.css"]
 
 [nav]
 
@@ -28,15 +29,7 @@ link = "/docs/"
 title = "资料"
 link = "/about/"
 
-# With the "extra_css" option you can add your own CSS styling to customize
-# your Zensical project according to your needs. You can add any number of
-# CSS files.
-#
-# The path provided should be relative to the "docs_dir".
-#
-# Read more: https://zensical.org/docs/customization/#additional-css
-#
-#extra_css = ["stylesheets/extra.css"]
+
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.

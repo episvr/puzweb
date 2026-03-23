@@ -1,0 +1,51 @@
+/* ====== 容器（可选）====== */
+#answer, button, #result {
+    margin: 12px 0;
+}
+
+/* ====== 输入框 ====== */
+#answer {
+    width: 260px;
+    padding: 10px 12px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+/* focus 效果 */
+#answer:focus {
+    border-color: #646cff;
+    box-shadow: 0 0 0 2px rgba(100,108,255,0.2);
+}
+
+/* ====== 按钮 ====== */
+button {
+    width: 120px;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+    background: #646cff;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+/* hover */
+button:hover {
+    background: #4f56d8;
+}
+
+/* 点击感 */
+button:active {
+    transform: scale(0.97);
+}
+
+/* ====== 结果文本 ====== */
+#result {
+    font-size: 16px;
+    font-weight: 500;
+    min-height: 24px;
+}
