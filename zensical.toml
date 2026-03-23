@@ -35,7 +35,7 @@ nav = [
         {"史官记录"="Resources/03history.md"},
         {"解题工具"="Resources/04tools.md"},
         {"其他记录"="Resources/05other.md"},
-        {"史官记录"="Resources/06recommend.md"},
+        {"我的推荐"="Resources/06recommend.md"},
     ] },
     { "我的谜题" = [
         {"无马"= "Puzzles/01/puzzle.md"},
@@ -60,9 +60,7 @@ features = [
     "navigation.instant.prefetch",
     "navigation.tracking",
     "navigation.tabs",
-    "navigation.top",
     "search.suggest",
-    "content.code.copy",
 ]
 
 
