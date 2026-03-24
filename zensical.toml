@@ -38,7 +38,7 @@ nav = [
         {"我的推荐"="Resources/06recommend.md"},
     ] },
     { "我的谜题" = [
-        {"无马"= "Puzzles/01/puzzle.md"},
+        {"非马"= "Puzzles/01/puzzle.md"},
     ] },
     { "题解记录"=[
         {"首页"="Blogs/"},
